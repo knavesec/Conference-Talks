@@ -8,4 +8,4 @@ Bloodhound is a popular open-source Active Directory security tool that can be u
 
 ### Details
 
-Slides: [PPTX](RMISC_bloodhound-use-and-abuse.pptx)
+- Slides: [PPTX](RMISC_bloodhound-use-and-abuse.pptx)

@@ -8,7 +8,7 @@ A new and novel Office365 user enumeration technique against Federated environme
 
 ### Details
 
-Slides: [PPTX](Office365_Correlated_User_Enum.pptx)
-Video: [Vimeo](https://vimeo.com/showcase/9606366/video/730342097) - Password: battleship2022
-Blog: [WhyNotSecurity](https://whynotsecurity.com/blog/o365fedenum/)
-Tool: [Github](https://github.com/knavesec/o365fedenum)
+- Slides: [PPTX](Office365_Correlated_User_Enum.pptx)
+- Video: [Vimeo](https://vimeo.com/showcase/9606366/video/730342097) - Password: battleship2022
+- Blog: [WhyNotSecurity](https://whynotsecurity.com/blog/o365fedenum/)
+- Tool: [Github](https://github.com/knavesec/o365fedenum)
